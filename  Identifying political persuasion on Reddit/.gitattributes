@@ -1,0 +1,4 @@
+[[:space:]]Identifying[[:space:]]political[[:space:]]persuasion[[:space:]]on[[:space:]]Reddit/data/Right/ filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Identifying[[:space:]]political[[:space:]]persuasion[[:space:]]on[[:space:]]Reddit/data/Left/ filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Identifying[[:space:]]political[[:space:]]persuasion[[:space:]]on[[:space:]]Reddit/feats/Alt_feats.dat.np filter=lfs diff=lfs merge=lfs -text
+[[:space:]]Identifying[[:space:]]political[[:space:]]persuasion[[:space:]]on[[:space:]]Reddit/feats/Alt_feats.dat.npy filter=lfs diff=lfs merge=lfs -text
