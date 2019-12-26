@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de143186-eb8b-441b-b689-55a9cb8cf99e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/A1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/BristolNorms+GilhoolyLogie.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Conjunct" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/First-person" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Private" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Public" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Ratings_Warriner_et_al.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Saying" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Second-person" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Slang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Slang2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/StopWords" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/Third-person" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/abbrev.english" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/clitics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/femaleFirstNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/lastNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/maleFirstNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/pn_abbrev.english" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/Wordlists/pn_abbrev.english2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/a1_3.1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/a1_3.2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/a1_3.3.analysis.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/a1_3.3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/a1_3.4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/.idea/A1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/a1_3.2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/a1_3.3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/a1_classify.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/a1_extractFeatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/a1_preproc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/out.json.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/preproc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/A1/preproc2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/a1_extractFeatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/ASS/a1_preproc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/a1_3.1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/a1_3.2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/a1_3.3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/a1_3.4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/a1_classify.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/a1_extractFeatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/a1_preproc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/extract_temp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/out.json.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/out.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/out1.json.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/preproc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/preproc2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/preproc3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/code/try.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/data/Alt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/data/Center" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/data/Left" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/data/Right" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/Alt_IDs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/Alt_feats.dat.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/Center_IDs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/Center_feats.dat.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/Left_IDs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/Left_feats.dat.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/Right_IDs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/Right_feats.dat.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A1/feats/feats.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/A3$a3_levenshtein.coverage" NAME="a3_levenshtein Coverage Results" MODIFIED="1554500093870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/A3$a3_gmm.coverage" NAME="a3_gmm Coverage Results" MODIFIED="1554507977803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/a3_gmm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-717">
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
+              <folding>
+                <element signature="e#0#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/S-15C/transcripts.Google.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/S-15C/transcripts.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/S-15C/transcripts.Kaldi.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/a3_levenshtein.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/S-1A/transcripts.Kaldi.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/S-1A/transcripts.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/S-1A/transcripts.Google.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/S-12D/transcripts.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/S-12D/transcripts.Kaldi.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="59" lean-forward="true" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>myTheta</find>
+      <find>log_b_m_x</find>
+      <find>M</find>
+      <find>theta</find>
+      <find>-0.5</find>
+      <find>Upda</find>
+      <find>trainThetas</find>
+      <find>NOTE</find>
+      <find>d</find>
+      <find>logsumexp</find>
+      <find>LOG_B_M_X</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/code/a3_levenshtein.py" />
+        <option value="$PROJECT_DIR$/code/a3_gmm.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="A3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A3" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="A3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A3" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="S-15C" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.a3_gmm">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="A3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/a3_gmm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a3_gmm" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="A3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/a3_gmm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a3_levenshtein" type="PythonConfigurationType" factoryName="Python">
+      <module name="A3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.7/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/a3_levenshtein.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.a3_gmm" />
+      <item itemvalue="Python.a3_levenshtein" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de143186-eb8b-441b-b689-55a9cb8cf99e" name="Default Changelist" comment="" />
+      <created>1553216886929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553216886929</updated>
+      <workItem from="1553216888623" duration="15095000" />
+      <workItem from="1553693726111" duration="125685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="140780000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15508886" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28219178" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49919224" weight="0.38219178" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5016155" side_tool="true" weight="0.46575344" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.4983845" visible="true" weight="0.32054794" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.8891129" visible="true" weight="0.0815832" />
+      <window_info anchor="right" x="0" y="0" width="270" height="600" id="Documentation" order="4" sideWeight="0.110887095" side_tool="true" visible="true" weight="0.0815832" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/a3_levenshtein.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/a3_levenshtein.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/code/a3_gmm.py</url>
+          <line>204</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>R[n-1,m-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>h[j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r[j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>r[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>B[i,j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>R[i,j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>myTheta.Sigma[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>logsumexp(log_Bs, b = myTheta.omega)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/numpy/lib/stride_tricks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="2061" selection-start-line="2061" selection-end-line="2061" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/scipy/special/_logsumexp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-2B/transcripts.Kaldi.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/gnmLiks.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-31C/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-31C/transcripts.Kaldi.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-31C/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-5A/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-5A/transcripts.Kaldi.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-26B/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-29A/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-29A/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-26B/transcripts.Kaldi.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-26B/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-30B/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-5A/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-30B/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-2B/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-2B/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-12D/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-12D/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-12D/transcripts.Kaldi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="59" lean-forward="true" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-1A/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-1A/transcripts.Kaldi.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-1A/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-15C/transcripts.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-15C/transcripts.Kaldi.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/S-15C/transcripts.Google.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/a3_levenshtein.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="138" lean-forward="true" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/a3_gmm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-717">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
