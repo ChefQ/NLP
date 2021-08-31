@@ -10,5 +10,5 @@ SPEAKER IDENTIFICATION
 a natural language processing project. Task was to recognize 32 distinct speakers using Gaussian Mixture Models. During testing the GMM had a 93% accuracy in classifying unknown speakers.
 Implemented GMM from scratch using only NumPy and Sklearn.
 
-![alt-text](![image](https://user-images.githubusercontent.com/34758298/131426438-fa7dd2ca-4a22-4e8a-919b-ebfb14615400.png)
+![alt-text](https://user-images.githubusercontent.com/34758298/131426438-fa7dd2ca-4a22-4e8a-919b-ebfb14615400.png
 )
